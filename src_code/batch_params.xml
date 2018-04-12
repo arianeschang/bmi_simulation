@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><sweep runs="10"><parameter name="randomSeed" type="constant" constant_type="int" value="1"></parameter><parameter name="satisficing_radius" type="list" value_type="double" values="0.0 0.4"><parameter name="rewiring_probability" type="list" value_type="double" values="0.1 0.9"></parameter></parameter></sweep>
